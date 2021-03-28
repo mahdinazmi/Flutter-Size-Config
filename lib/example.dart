@@ -21,7 +21,7 @@ class Example extends StatelessWidget {
             Padding(
               padding: EdgeInsets.only(top: defaultSize * 10),
               child: Text(
-                "THIS IS EXAMPLE",
+                "THIS IS A EXAMPLE",
                 style: TextStyle(
                   fontSize: defaultSize * 3
                 ),
